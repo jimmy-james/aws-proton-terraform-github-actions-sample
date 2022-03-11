@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "270df8da-29f1-4d19-8862-0e9ca0745dc4",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:273445213567:environment/terraform-vpc-env",
+    "templateArn" : "arn:aws:proton:us-west-2:273445213567:environment-template/terraform-vpc-env-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
