@@ -1,0 +1,7 @@
+{
+    "ENVIRONMENT_NAME": {
+        "role": "arn:aws:cloudformation:us-west-2:233855347054:stack/aws-proton-terraform-role-stack/dd3d9f50-aaf7-11ec-90db-0abfb31ad325",
+        "region": REGION,
+        "state_bucket":"REPLACE_ME"
+    }
+}

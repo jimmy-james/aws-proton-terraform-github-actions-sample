@@ -42,7 +42,7 @@ Resources:
     Properties:
       BucketName: !Join
        - ''
-       - - 'aws-proton-terraform-bucket-'
+       - - 'aws-proton-terraform-bucket-2-'
          - !Ref AWS::AccountId
 Outputs:
   Role:
