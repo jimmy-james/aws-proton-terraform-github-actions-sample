@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "782c3fac-51c7-4a2b-afa3-a63639c62e60",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:136133424592:environment/terraform-test-env",
+    "templateArn" : "arn:aws:proton:us-east-1:136133424592:environment-template/public-vpc-test",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
