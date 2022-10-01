@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "9ace4fd2-ec18-4727-bbd2-24d1ce5b4608",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:233855347054:environment/terraform-testing-env",
     "templateArn" : "arn:aws:proton:us-east-1:233855347054:environment-template/public-vpc-test",
