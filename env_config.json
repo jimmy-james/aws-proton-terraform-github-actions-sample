@@ -1,7 +1,7 @@
 {
     "ENVIRONMENT_NAME": {
-        "role": "arn:aws:cloudformation:us-east-1:233855347054:stack/aws-proton-terraform-role-stack-3/1843d390-ab7e-11ec-a24c-0e16301e66db",
+        "role": "arn:aws:iam::088195702211:role/ExampleGithubRole",
         "region": "us-east-1",
-        "state_bucket": "aws-proton-terraform-bucket-2-233855347054"
+        "state_bucket": "aws-proton-terraform-bucket-2-088195702211"
     }
 }
